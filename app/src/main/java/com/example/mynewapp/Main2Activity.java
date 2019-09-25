@@ -36,7 +36,7 @@ public class Main2Activity extends AppCompatActivity {
                 }
             }
         });
-
+//쇼6ㅛㅅㅎ
 
     }
 
